@@ -1,11 +1,6 @@
-name = 'Ilays'
-print(name,type(name))
-name = 1
-print(name,type(name))
-name = 5.5
-print(name,type(name))
-name={1, 2}
-print(name,type(name))
-age = 30
-new_age = 20
-print(age+new_age)
+homework = 12
+The_fourth_time = 1.5
+Course_name = 'Python'
+print(The_fourth_time/homework)
+Time_for_one_task=0.125
+print('Курс:',Course_name,'всего задач:',homework,'затрачено часов:',The_fourth_time,'среднее время выполнения:',Time_for_one_task,'часа')
